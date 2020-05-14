@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/coredns:v1.6.7
+FROM gcr.io/google_containers/coredns:1.6.7
 MAINTAINER magicTan <tianzhuojun93@foxmail.com>
